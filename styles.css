@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container {
+	padding: 20px;
+	background-color: #F5F4F6;
+	font-size: 8px;
+	width: 70%;
+}
+.item {
+	background-color: white ;
+	padding: 10px;
+	border: 1px solid gray ;
+}
+.author {
+	text-align: right ;
+}
